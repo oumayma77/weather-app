@@ -10,6 +10,9 @@ Application météo simple qui récupère les données d'une API  (OpenWeatherMa
 
 -**Requetes** : Fetch API (async / await ) 
 
+## Interface de l'utilisateur 
+![Weather App Interface](2.png)
+
 ## Fonctionnalités 
 
 -**recherche par ville**
