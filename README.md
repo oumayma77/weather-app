@@ -34,6 +34,9 @@ Application météo simple qui récupère les données d'une API  (OpenWeatherMa
      "wind" : {"speed": 5.2} , 
      "weather": [{"main" : "clouds"}] , 
      "name": "paris" 
-     } 
+     }  
+
+
+**built as a learning project**
   
 
